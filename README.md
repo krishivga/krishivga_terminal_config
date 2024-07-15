@@ -1,0 +1,1 @@
+# krishivga_terminal_config
